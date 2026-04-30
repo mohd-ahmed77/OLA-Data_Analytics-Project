@@ -109,8 +109,8 @@ An end-to-end data analytics project analyzing **July 2024 ride-sharing data (~1
 
 ## 🤝 **Connect with Me**
 
-* 💼 LinkedIn
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 💼 LinkedIn:https://www.linkedin.com/in/mohammad-ahmed-094859245/
+
 
 ---
 

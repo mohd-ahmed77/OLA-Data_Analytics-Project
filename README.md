@@ -84,11 +84,8 @@ An end-to-end data analytics project analyzing **July 2024 ride-sharing data (~1
 ---
 
 ## 📸 **Screenshots**
-https://raw.githubusercontent.com/mohd-ahmed77/OLA-Data_Analytics-Project/refs/heads/main/PowerBI/Slide_ScreenShot/1.png
+<img width="1122" height="623" alt="image" src="https://github.com/user-attachments/assets/6ec14bf6-d5ed-4add-ba34-88698a1b8db8" />
 
-https://raw.githubusercontent.com/mohd-ahmed77/OLA-Data_Analytics-Project/refs/heads/main/PowerBI/Slide_ScreenShot/2.png
-
----
 
 ## 🚀 **How to Use**
 

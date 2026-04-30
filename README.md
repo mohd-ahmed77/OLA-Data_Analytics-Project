@@ -85,6 +85,14 @@ An end-to-end data analytics project analyzing **July 2024 ride-sharing data (~1
 
 ## 📸 **Screenshots**
 <img width="1122" height="623" alt="image" src="https://github.com/user-attachments/assets/6ec14bf6-d5ed-4add-ba34-88698a1b8db8" />
+<img width="1120" height="615" alt="image" src="https://github.com/user-attachments/assets/2ad1192c-a2be-4afa-ae3d-4b95d7ed1084" />
+<img width="1114" height="630" alt="image" src="https://github.com/user-attachments/assets/ee451749-ef77-49e7-84c3-41975a7c9e94" />
+<img width="1107" height="619" alt="image" src="https://github.com/user-attachments/assets/10326254-3799-43b6-8d8a-2f3f05f5f88e" />
+<img width="1119" height="626" alt="image" src="https://github.com/user-attachments/assets/816c6181-3361-458c-a1df-d4a857fc7029" />
+<img width="1121" height="638" alt="image" src="https://github.com/user-attachments/assets/c560cd26-ed1b-4224-bdc2-890b42ea41d0" />
+
+
+
 
 
 ## 🚀 **How to Use**
